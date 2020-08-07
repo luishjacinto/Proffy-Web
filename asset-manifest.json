@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Proffy-Web/static/css/main.66b026ca.chunk.css",
-    "main.js": "/Proffy-Web/static/js/main.006b435f.chunk.js",
-    "main.js.map": "/Proffy-Web/static/js/main.006b435f.chunk.js.map",
+    "main.js": "/Proffy-Web/static/js/main.adab1067.chunk.js",
+    "main.js.map": "/Proffy-Web/static/js/main.adab1067.chunk.js.map",
     "runtime-main.js": "/Proffy-Web/static/js/runtime-main.b8b8c6be.js",
     "runtime-main.js.map": "/Proffy-Web/static/js/runtime-main.b8b8c6be.js.map",
-    "static/js/2.20f78517.chunk.js": "/Proffy-Web/static/js/2.20f78517.chunk.js",
-    "static/js/2.20f78517.chunk.js.map": "/Proffy-Web/static/js/2.20f78517.chunk.js.map",
+    "static/js/2.29392992.chunk.js": "/Proffy-Web/static/js/2.29392992.chunk.js",
+    "static/js/2.29392992.chunk.js.map": "/Proffy-Web/static/js/2.29392992.chunk.js.map",
     "index.html": "/Proffy-Web/index.html",
-    "precache-manifest.62d79d62e3d691b12d54d873e28a07a8.js": "/Proffy-Web/precache-manifest.62d79d62e3d691b12d54d873e28a07a8.js",
+    "precache-manifest.22be0f872f59b4e464df7dcf67112afd.js": "/Proffy-Web/precache-manifest.22be0f872f59b4e464df7dcf67112afd.js",
     "service-worker.js": "/Proffy-Web/service-worker.js",
     "static/css/main.66b026ca.chunk.css.map": "/Proffy-Web/static/css/main.66b026ca.chunk.css.map",
-    "static/js/2.20f78517.chunk.js.LICENSE.txt": "/Proffy-Web/static/js/2.20f78517.chunk.js.LICENSE.txt",
+    "static/js/2.29392992.chunk.js.LICENSE.txt": "/Proffy-Web/static/js/2.29392992.chunk.js.LICENSE.txt",
     "static/media/back.svg": "/Proffy-Web/static/media/back.dc8c47fa.svg",
     "static/media/give-classes.svg": "/Proffy-Web/static/media/give-classes.156102ee.svg",
     "static/media/landing.svg": "/Proffy-Web/static/media/landing.211f2bb0.svg",
@@ -23,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b8b8c6be.js",
-    "static/js/2.20f78517.chunk.js",
+    "static/js/2.29392992.chunk.js",
     "static/css/main.66b026ca.chunk.css",
-    "static/js/main.006b435f.chunk.js"
+    "static/js/main.adab1067.chunk.js"
   ]
 }
