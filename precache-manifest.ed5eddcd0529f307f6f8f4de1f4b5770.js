@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94c6969d7a6eb27728be0a55badca00a",
+    "revision": "f92ed2e7fd721ecdd395af6c203c7b2e",
     "url": "/Proffy-Web-NLW-RocketSeat/index.html"
   },
   {
-    "revision": "7f154d9956b5d5c85161",
+    "revision": "ad14d9f8dbdf1c528b21",
     "url": "/Proffy-Web-NLW-RocketSeat/static/css/main.66b026ca.chunk.css"
   },
   {
-    "revision": "94f20670fbcc2a33582c",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.20f78517.chunk.js"
+    "revision": "8016514ffbdeebc85aa8",
+    "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.20f78517.chunk.js.LICENSE.txt"
+    "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7f154d9956b5d5c85161",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.006b435f.chunk.js"
+    "revision": "ad14d9f8dbdf1c528b21",
+    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.adab1067.chunk.js"
   },
   {
     "revision": "df2fad1a7e126fe5cd40",

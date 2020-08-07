@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Proffy-Web-NLW-RocketSeat/precache-manifest.d6cc0fd2e580914282ee631ae64bc3bc.js"
+  "/Proffy-Web-NLW-RocketSeat/precache-manifest.ed5eddcd0529f307f6f8f4de1f4b5770.js"
 );
 
 self.addEventListener('message', (event) => {
