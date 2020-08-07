@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f92ed2e7fd721ecdd395af6c203c7b2e",
+    "revision": "e3d515fb9486eb662c2bc413d416828c",
     "url": "/Proffy-Web-NLW-RocketSeat/index.html"
   },
   {
-    "revision": "ad14d9f8dbdf1c528b21",
+    "revision": "c2e5e750c6e6b288c433",
     "url": "/Proffy-Web-NLW-RocketSeat/static/css/main.66b026ca.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad14d9f8dbdf1c528b21",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.adab1067.chunk.js"
+    "revision": "c2e5e750c6e6b288c433",
+    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.d766a437.chunk.js"
   },
   {
     "revision": "df2fad1a7e126fe5cd40",
