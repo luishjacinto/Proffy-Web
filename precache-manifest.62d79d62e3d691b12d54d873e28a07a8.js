@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e41c7bc6f85b8ccdffe0635e41d48d1e",
+    "revision": "e108d3afe3ac105a020dd73ee34987cd",
     "url": "/Proffy-Web/index.html"
   },
   {
-    "revision": "ad14d9f8dbdf1c528b21",
+    "revision": "7f154d9956b5d5c85161",
     "url": "/Proffy-Web/static/css/main.66b026ca.chunk.css"
   },
   {
-    "revision": "8016514ffbdeebc85aa8",
-    "url": "/Proffy-Web/static/js/2.29392992.chunk.js"
+    "revision": "94f20670fbcc2a33582c",
+    "url": "/Proffy-Web/static/js/2.20f78517.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Proffy-Web/static/js/2.29392992.chunk.js.LICENSE.txt"
+    "url": "/Proffy-Web/static/js/2.20f78517.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ad14d9f8dbdf1c528b21",
-    "url": "/Proffy-Web/static/js/main.adab1067.chunk.js"
+    "revision": "7f154d9956b5d5c85161",
+    "url": "/Proffy-Web/static/js/main.006b435f.chunk.js"
   },
   {
     "revision": "ff99829e46699fd6c255",

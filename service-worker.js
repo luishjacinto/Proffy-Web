@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Proffy-Web/precache-manifest.22be0f872f59b4e464df7dcf67112afd.js"
+  "/Proffy-Web/precache-manifest.62d79d62e3d691b12d54d873e28a07a8.js"
 );
 
 self.addEventListener('message', (event) => {
