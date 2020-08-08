@@ -12,8 +12,8 @@
 
 ### Web
 
-- [x] OpÃ§Ã£o de estudar ou dar aulas.
-- [x] FÃ³rmulario para cadastro de professores.
+- [x] Opção de estudar ou dar aulas.
+- [x] Formulário para cadastro de professores.
 - [x] Fitragem de professores.
 - [x] Entrar em contado com os professores pelo Whatsapp.
 
@@ -35,14 +35,14 @@
    Instalação
 </h2>
 
-### ??? Rodando a versÃ£o web
+### Rodando a versão web
 
 ```bash
 
 # Instale as dependências
 $ yarn
 
-# Execute aplicaÃ§Ã£o
+# Execute aplicação
 yarn start
 
 # O app vai estará rodando na porta 3000 - acesse <http://localhost:3000>
