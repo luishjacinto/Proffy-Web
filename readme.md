@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   <img src="./readme-images/web-version.png" />
 </h1>
@@ -40,13 +39,13 @@
 
 ```bash
 
-# Instale as dependÃªncias
+# Instale as dependências
 $ yarn
 
 # Execute aplicaÃ§Ã£o
 yarn start
 
-# O app vai estÃ¡ rodando na porta 3000 - acesse <http://localhost:3000>
+# O app vai estará rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
 <h2 id="author">
