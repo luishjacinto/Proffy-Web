@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img color='#8257E5' src="./src/assets/images/logo.svg" />
+  <img src="./readme-images/web-version.png" />
 </h1>
 
 <p align="center" id="description">
@@ -19,7 +19,7 @@
 
 
 <h2 id="tecnologias">
-  ?? Tecnologias
+  Tecnologias
 </h2>
 
  As seguintes ferramentas foram usadas na construção do projeto:
@@ -32,7 +32,7 @@
 - [StyledComponents](https://styled-components.com/)
 
 <h2 id="install">
-   ??? Instalação
+   Instalação
 </h2>
 
 ### ??? Rodando a versão web
@@ -49,7 +49,7 @@ yarn start
 ```
 
 <h2 id="author">
-   ??? Autor
+   Autor
 </h2>
 
 <a href="https://github.com/luishjacinto/">
