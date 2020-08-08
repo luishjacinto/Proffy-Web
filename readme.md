@@ -1,11 +1,6 @@
 <<<<<<< HEAD
 <h1 align="center">
   <img src="./readme-images/web-version.png" />
-=======
-<h1 align="center" style="background-color: #8257E5;
-    padding: 30px;
-    border-radius: 32px;">
-  <img src="./src/assets/images/logo.svg" />
 </h1>
 
 <p align="center" id="description">
