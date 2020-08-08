@@ -1,6 +1,6 @@
-<h1 align="center"  style="{ background-color: #8257E5;
+<h1 align="center" style=background-color: #8257E5;
     padding: 30px;
-    border-radius: 32px;}">
+    border-radius: 32px;">
   <img color='#8257E5' src="./src/assets/images/logo.svg" />
 </h1>
 
