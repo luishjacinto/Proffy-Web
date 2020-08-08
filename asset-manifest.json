@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/Proffy-Web-NLW-RocketSeat/static/css/main.66b026ca.chunk.css",
-    "main.js": "/Proffy-Web-NLW-RocketSeat/static/js/main.d766a437.chunk.js",
-    "main.js.map": "/Proffy-Web-NLW-RocketSeat/static/js/main.d766a437.chunk.js.map",
+    "main.css": "/Proffy-Web-NLW-RocketSeat/static/css/main.267d9cbf.chunk.css",
+    "main.js": "/Proffy-Web-NLW-RocketSeat/static/js/main.bd95e7f7.chunk.js",
+    "main.js.map": "/Proffy-Web-NLW-RocketSeat/static/js/main.bd95e7f7.chunk.js.map",
     "runtime-main.js": "/Proffy-Web-NLW-RocketSeat/static/js/runtime-main.2743c578.js",
     "runtime-main.js.map": "/Proffy-Web-NLW-RocketSeat/static/js/runtime-main.2743c578.js.map",
-    "static/js/2.29392992.chunk.js": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js",
-    "static/js/2.29392992.chunk.js.map": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js.map",
+    "static/js/2.e344a92a.chunk.js": "/Proffy-Web-NLW-RocketSeat/static/js/2.e344a92a.chunk.js",
+    "static/js/2.e344a92a.chunk.js.map": "/Proffy-Web-NLW-RocketSeat/static/js/2.e344a92a.chunk.js.map",
     "index.html": "/Proffy-Web-NLW-RocketSeat/index.html",
-    "precache-manifest.cead060097f3b7047eb2b333f944612b.js": "/Proffy-Web-NLW-RocketSeat/precache-manifest.cead060097f3b7047eb2b333f944612b.js",
+    "precache-manifest.95073f60cbb1f2ec0b0e6dde7d925c8a.js": "/Proffy-Web-NLW-RocketSeat/precache-manifest.95073f60cbb1f2ec0b0e6dde7d925c8a.js",
     "service-worker.js": "/Proffy-Web-NLW-RocketSeat/service-worker.js",
-    "static/css/main.66b026ca.chunk.css.map": "/Proffy-Web-NLW-RocketSeat/static/css/main.66b026ca.chunk.css.map",
-    "static/js/2.29392992.chunk.js.LICENSE.txt": "/Proffy-Web-NLW-RocketSeat/static/js/2.29392992.chunk.js.LICENSE.txt",
+    "static/css/main.267d9cbf.chunk.css.map": "/Proffy-Web-NLW-RocketSeat/static/css/main.267d9cbf.chunk.css.map",
+    "static/js/2.e344a92a.chunk.js.LICENSE.txt": "/Proffy-Web-NLW-RocketSeat/static/js/2.e344a92a.chunk.js.LICENSE.txt",
     "static/media/back.svg": "/Proffy-Web-NLW-RocketSeat/static/media/back.dc8c47fa.svg",
     "static/media/give-classes.svg": "/Proffy-Web-NLW-RocketSeat/static/media/give-classes.156102ee.svg",
     "static/media/landing.svg": "/Proffy-Web-NLW-RocketSeat/static/media/landing.211f2bb0.svg",
     "static/media/logo.svg": "/Proffy-Web-NLW-RocketSeat/static/media/logo.86fef799.svg",
     "static/media/purple-heart.svg": "/Proffy-Web-NLW-RocketSeat/static/media/purple-heart.bfdb3ebe.svg",
+    "static/media/qr-code.svg": "/Proffy-Web-NLW-RocketSeat/static/media/qr-code.ba2312e2.svg",
     "static/media/study.svg": "/Proffy-Web-NLW-RocketSeat/static/media/study.e7a7e1b4.svg",
     "static/media/warning.svg": "/Proffy-Web-NLW-RocketSeat/static/media/warning.6dfaa2f9.svg",
     "static/media/whatsapp.svg": "/Proffy-Web-NLW-RocketSeat/static/media/whatsapp.45c6e6ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2743c578.js",
-    "static/js/2.29392992.chunk.js",
-    "static/css/main.66b026ca.chunk.css",
-    "static/js/main.d766a437.chunk.js"
+    "static/js/2.e344a92a.chunk.js",
+    "static/css/main.267d9cbf.chunk.css",
+    "static/js/main.bd95e7f7.chunk.js"
   ]
 }
