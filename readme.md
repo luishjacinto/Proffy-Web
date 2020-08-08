@@ -6,7 +6,6 @@
     padding: 30px;
     border-radius: 32px;">
   <img src="./src/assets/images/logo.svg" />
->>>>>>> d118f9346a84e6d1a432e58f6b34e5fc9057840b
 </h1>
 
 <p align="center" id="description">
@@ -19,8 +18,8 @@
 
 ### Web
 
-- [x] Opção de estudar ou dar aulas.
-- [x] Fórmulario para cadastro de professores.
+- [x] OpÃ§Ã£o de estudar ou dar aulas.
+- [x] FÃ³rmulario para cadastro de professores.
 - [x] Fitragem de professores.
 - [x] Entrar em contado com os professores pelo Whatsapp.
 
@@ -29,7 +28,7 @@
   Tecnologias
 </h2>
 
- As seguintes ferramentas foram usadas na construção do projeto:
+ As seguintes ferramentas foram usadas na construÃ§Ã£o do projeto:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
@@ -39,20 +38,20 @@
 - [StyledComponents](https://styled-components.com/)
 
 <h2 id="install">
-   Instala��o
+   Instalação
 </h2>
 
-### ??? Rodando a versão web
+### ??? Rodando a versÃ£o web
 
 ```bash
 
-# Instale as dependências
+# Instale as dependÃªncias
 $ yarn
 
-# Execute aplicação
+# Execute aplicaÃ§Ã£o
 yarn start
 
-# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
+# O app vai estÃ¡ rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
 <h2 id="author">
