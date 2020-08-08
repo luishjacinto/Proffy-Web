@@ -1,0 +1,56 @@
+#page-getApp {
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: var(--color-text-in-primary);
+    background: var(--color-primary);
+}
+
+#page-getApp{
+    width: 100vw;
+    height: 100vh;
+}
+
+#page-getApp .page-header .header-content{
+    margin-bottom: 6.4rem;
+}
+
+#page-getApp-content{
+    height: 100vh;
+    max-width: 700px;
+}
+
+
+.qr-code{
+    padding: 2rem;
+    width: 100%;
+}
+
+
+@media (min-width: 700px) {
+    #page-getApp {
+        height: 100%;
+    }
+
+    #page-getApp-content .page-header .header-content {
+        margin-bottom: 0;
+    }
+
+    #page-teacher-form main fieldset {
+        padding: 0 6.4rem;
+    }
+
+    .qr-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .qr-code{
+        padding: 2rem;
+        width: 40%;
+    }
+}
