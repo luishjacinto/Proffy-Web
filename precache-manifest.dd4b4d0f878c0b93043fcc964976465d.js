@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f23502519c1d73619bdffd48776db69",
+    "revision": "44fff1f09e6904b529e64e3cec432221",
     "url": "/Proffy-Web-NLW-RocketSeat/index.html"
   },
   {
-    "revision": "b5ea65685334c7d8d289",
+    "revision": "1be6acdafedf6460ee7e",
     "url": "/Proffy-Web-NLW-RocketSeat/static/css/main.267d9cbf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Proffy-Web-NLW-RocketSeat/static/js/2.e344a92a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5ea65685334c7d8d289",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.bd95e7f7.chunk.js"
+    "revision": "1be6acdafedf6460ee7e",
+    "url": "/Proffy-Web-NLW-RocketSeat/static/js/main.e37c01a5.chunk.js"
   },
   {
     "revision": "df2fad1a7e126fe5cd40",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Proffy-Web-NLW-RocketSeat/static/media/purple-heart.bfdb3ebe.svg"
   },
   {
-    "revision": "ba2312e2135f0cd4d9f0187c61c2f616",
-    "url": "/Proffy-Web-NLW-RocketSeat/static/media/qr-code.ba2312e2.svg"
+    "revision": "3d1a4ddfd944d6f5c9970b4ef5e8dfca",
+    "url": "/Proffy-Web-NLW-RocketSeat/static/media/qr-code.3d1a4ddf.svg"
   },
   {
     "revision": "e7a7e1b4e016245fa97e6f42aee4bcaa",
