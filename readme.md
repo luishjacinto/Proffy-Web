@@ -22,7 +22,7 @@
   Tecnologias
 </h2>
 
- As seguintes ferramentas foram usadas na construÃ§Ã£o do projeto:
+ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
