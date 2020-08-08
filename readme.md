@@ -57,3 +57,12 @@ yarn start
  <br />
  <sub><b>Luis Henrique Jacinto</b></sub>
 </a>
+
+
+<h2 id="author">
+   Baixe o aplicativo
+</h2>
+
+<a align="center" href="https://github.com/luishjacinto/">
+   <img src="./src/assets/images/qr-code.svg" />
+</a>
